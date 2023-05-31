@@ -8,3 +8,9 @@ I will try to study and code ISP algorithm in Python and C.
 # ISP Image Signal Processor in C and Python
 
 This repo is an implementation of ISP in c function, basically it is re-implemented from [openISP](https://github.com/cruxopen/openISP) in python.
+
+**Function list**
+
+- [x] Dead Pixel Correction
+
+- [x] Black Level Compensation
